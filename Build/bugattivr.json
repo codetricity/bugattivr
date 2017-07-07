@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "bugattivr.data.unityweb",
+"asmCodeUrl": "bugattivr.asm.code.unityweb",
+"asmMemoryUrl": "bugattivr.asm.memory.unityweb",
+"asmFrameworkUrl": "bugattivr.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
