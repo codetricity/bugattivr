@@ -20,4 +20,4 @@ Click on link below, then click on scene to activate focus.
 
 ## Download 
 
-![Unity Package](https://drive.google.com/open?id=0B3V9jzGQTmyBdUdGc2ZhSWhmWE0)
+[Unity Package](https://drive.google.com/open?id=0B3V9jzGQTmyBdUdGc2ZhSWhmWE0)
